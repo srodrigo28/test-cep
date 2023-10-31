@@ -1,0 +1,42 @@
+{
+  "endereco": [
+    {
+      "id": 1,
+      "uf": "",
+      "localidade": "localidade",
+      "complemento": "complemento"
+    },
+    {
+      "estado": "GO",
+      "cidade": "Aparecida de Goiânia",
+      "bairro": "Jardim Tiradentes",
+      "logradouro": "Rua 5",
+      "complemento": "Casa 3",
+      "id": 2
+    },
+    {
+      "estado": "GO",
+      "cidade": "Aparecida de Goiânia",
+      "bairro": "Jardim Tiradentes",
+      "logradouro": "Rua 5",
+      "complemento": "",
+      "id": 3
+    },
+    {
+      "estado": "GO",
+      "cidade": "Rio Verde",
+      "bairro": "Setor Morada do Sol",
+      "logradouro": "Rua Joaquim Fonseca",
+      "complemento": "Apartamento 119B",
+      "id": 4
+    },
+    {
+      "estado": "DF",
+      "cidade": "Brasília",
+      "bairro": "Asa Norte",
+      "logradouro": "SBN Quadra 1",
+      "complemento": "Condomínio jardim 1, Apartamento 2",
+      "id": 5
+    }
+  ]
+}
